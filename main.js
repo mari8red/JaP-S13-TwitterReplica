@@ -1,4 +1,4 @@
-let tweet = document.getElementById("tweets");
+let tweet = document.getElementById("posts");
 
 const URL = "https://my-json-server.typicode.com/mari8red/json-datos/posts";
 
